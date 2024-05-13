@@ -7,17 +7,25 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="raffle-application" />
+        <module name="raffle-domain" />
+        <module name="raffle-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Raffle" target="8" />
       <module name="raffle-application" target="8" />
+      <module name="raffle-common" target="8" />
+      <module name="raffle-domain" target="8" />
+      <module name="src" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Raffle" options="-parameters" />
+      <module name="Raffle" options="" />
       <module name="raffle-application" options="-parameters" />
+      <module name="raffle-common" options="-parameters" />
+      <module name="raffle-domain" options="-parameters" />
+      <module name="src" options="-parameters" />
     </option>
   </component>
 </project>
