@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Raffle.iml" filepath="$PROJECT_DIR$/Raffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raffle-application/raffle-application.iml" filepath="$PROJECT_DIR$/raffle-application/raffle-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raffle-common/raffle-common.iml" filepath="$PROJECT_DIR$/raffle-common/raffle-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raffle-domain/raffle-domain.iml" filepath="$PROJECT_DIR$/raffle-domain/raffle-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raffle-infrastructure/raffle-infrastructure.iml" filepath="$PROJECT_DIR$/raffle-infrastructure/raffle-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raffle-interfaces/raffle-interfaces.iml" filepath="$PROJECT_DIR$/raffle-interfaces/raffle-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raffle-rpc/raffle-rpc.iml" filepath="$PROJECT_DIR$/raffle-rpc/raffle-rpc.iml" />
+    </modules>
+  </component>
+</project>
